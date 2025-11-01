@@ -1,14 +1,44 @@
 [
   {
+    "name": "3D skeleton",
+    "url": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/3D skeleton/3D skeleton.zip",
+    "image": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/3D skeleton/3D skeleton.jpg",
+    "orginalfile": "https://t.me/zahra_techaii",
+    "size": "3.95 KB"
+  },
+  {
+    "name": "Dragon",
+    "url": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/Dragon/Dragon.zip",
+    "image": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/Dragon/Dragon.jpg",
+    "orginalfile": "https://t.me/zahra_techaii",
+    "size": "5.02 KB"
+  },
+  {
+    "name": "Game calculator",
+    "url": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/Game calculator/Game calculator.zip",
+    "image": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/Game calculator/Game calculator.jpg",
+    "orginalfile": "https://t.me/zahra_techaii",
+    "size": "69.86 KB"
+  },
+  {
     "name": "heart",
     "url": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/heart/Heart.zip",
     "image": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/heart/heart.jpg",
-    "orginalfile": "https://t.me/zahra_techaii"
+    "orginalfile": "https://t.me/zahra_techaii",
+    "size": "1.71 KB"
+  },
+  {
+    "name": "moon",
+    "url": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/moon/Moon.zip",
+    "image": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/moon/moon.jpg",
+    "orginalfile": "https://t.me/zahra_techaii",
+    "size": "1.93 KB"
   },
   {
     "name": "portal",
     "url": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/portal/portal.zip",
     "image": "https://raw.githubusercontent.com/HanzoDev1375/Ghostidewebstore/main/portal/portal.jpg",
-    "orginalfile": "https://t.me/zahra_techaii"
+    "orginalfile": "https://t.me/zahra_techaii",
+    "size": "6.76 KB"
   }
 ]
